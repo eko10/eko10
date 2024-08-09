@@ -1,6 +1,4 @@
-## Hi there 👋
-
-Here are some ideas to get you started:
+- 👋 Hi, I'm @eko10
 - 🔭 I’m currently working on building scalable web applications with Laravel and Node.js.
 - 🌱 I’m currently learning advanced techniques in Back-End Development and improving my skills in Next.js.
 - 👯 I’m looking to collaborate on open-source projects, especially those that involve web development or API design.
